@@ -1,0 +1,15 @@
+C:\Users\Андрей\Desktop\VectorPAINt\PAINT\PAINT\obj\Debug\PAINT.csprojAssemblyReference.cache
+C:\Users\Андрей\Desktop\VectorPAINt\PAINT\PAINT\obj\Debug\MainWindow.g.cs
+C:\Users\Андрей\Desktop\VectorPAINt\PAINT\PAINT\obj\Debug\App.g.cs
+C:\Users\Андрей\Desktop\VectorPAINt\PAINT\PAINT\obj\Debug\PAINT_MarkupCompile.cache
+C:\Users\Андрей\Desktop\VectorPAINt\PAINT\PAINT\obj\Debug\PAINT_MarkupCompile.lref
+C:\Users\Андрей\Desktop\VectorPAINt\PAINT\PAINT\bin\Debug\PAINT.exe.config
+C:\Users\Андрей\Desktop\VectorPAINt\PAINT\PAINT\bin\Debug\PAINT.exe
+C:\Users\Андрей\Desktop\VectorPAINt\PAINT\PAINT\bin\Debug\PAINT.pdb
+C:\Users\Андрей\Desktop\VectorPAINt\PAINT\PAINT\obj\Debug\MainWindow.baml
+C:\Users\Андрей\Desktop\VectorPAINt\PAINT\PAINT\obj\Debug\PAINT.g.resources
+C:\Users\Андрей\Desktop\VectorPAINt\PAINT\PAINT\obj\Debug\PAINT.Properties.Resources.resources
+C:\Users\Андрей\Desktop\VectorPAINt\PAINT\PAINT\obj\Debug\PAINT.csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\VectorPAINt\PAINT\PAINT\obj\Debug\PAINT.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\VectorPAINt\PAINT\PAINT\obj\Debug\PAINT.exe
+C:\Users\Андрей\Desktop\VectorPAINt\PAINT\PAINT\obj\Debug\PAINT.pdb
